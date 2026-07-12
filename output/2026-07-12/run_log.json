@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-12",
+  "topic": "Mumbai ke Bhootiya Jagah",
+  "long_url": "https://www.youtube.com/watch?v=dTIKHIscjoo",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=gYqDu2oluWM (live: now)",
+    "https://www.youtube.com/watch?v=VQWJ2DWWdaU (live: scheduled 2026-07-12T17:46:41Z)",
+    "https://www.youtube.com/watch?v=09mZIedXPmQ (live: scheduled 2026-07-13T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
