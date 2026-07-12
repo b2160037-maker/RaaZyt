@@ -1,0 +1,304 @@
+{
+  "topics": [
+    {
+      "topic": "Bermuda Triangle",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Great Pyramids of Egypt",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Jagannath Temple Flag Mystery",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Devil's Sea (Dragon's Triangle)",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Roopkund Skeleton Lake",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Kohinoor Diamond Curse",
+      "type": "true_story"
+    },
+    {
+      "topic": "Secrets of the Taj Mahal",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Nazca Lines",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Mysteries of Antarctica",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Unknown Secrets of the Titanic",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Dancing Plague of 1518",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Lost City of Atlantis",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Kailasa Temple of Ellora",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Voynich Manuscript",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Mary Celeste Ghost Ship",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Taos Hum",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Bhangarh Fort Curse",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Kuldhara Abandoned Village",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Dyatlov Pass Incident",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Tunguska Event",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Sailing Stones of Death Valley",
+      "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "The Antikythera Mechanism",
+      "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "The Wow! Signal",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Shroud of Turin",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Lost Roman Legion of India",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Yuba County Five: America Ka Dyatlov Pass Rahasya",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Lead Masks Case: Brazil Ke Do Engineers Ki Rahasyamayi Maut",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Dancing Plague of 1518: Jab Log Naachte-Naachte Mar Gaye",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Koi Code Nahi Kar Saka",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Toxic Lady Gloria Ramirez: Ek Aurat Jiske Khoon Se Doctors Behosh Hone Lage",
+      "type": "true_story"
+    },
+    {
+      "topic": "Tarrare: Wo Insaan Jo Sab Kuch Kha Jata Tha",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Kentucky Meat Shower: Jab Aasmaan Se Meat Barasne Laga",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Sodder Children: Christmas Ki Raat Ko 5 Bacche Kaha Gayab Hue?",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Lake Natron: Ek Aisi Jheel Jo Sabko Patthar Bana Deti Hai",
+      "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "The Loneliest Whale: 52-Hertz Whale Ki Dardnak Kahani",
+      "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "The Man from Taured: Ek Aise Desh Ka Musafir Jo Map Par Exist Hi Nahi Karta",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Juliane Koepcke Survival Story: 10,000 Feet Se Gir Kar Amazon Ke Jungle Se Zinda Bachne Wali Ladki",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Lake City Quiet Pills: Reddit Ka Sabse Bada Unsolved Dark Secret",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Green Children of Woolpit: Do Hare Rang Ke Bacche Jo Achanak Prakat Hue",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Wow! Signal: Kya Sach Mein Aliens Ne Humse Contact Kiya Tha?",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Oak Island Money Pit: Ek Aisa Khazana Jise 200 Saal Se Koi Nahi Nikaal Saka",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Taos Hum: Ek Rahasyamayi Aawaaz Jo Sirf 2% Logo Ko Sunayi Deti Hai",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Project Sunshine: Jab Government Ne Chupke Se Baccho Ki Bodies Par Experiment Kiya",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Mary Celeste: Ghost Ship Ka Sabse Bada Samundari Rahasya",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Kuldhara Village: Ek Hi Raat Mein Gayab Hone Wale Pure Gaon Ka Sach",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Bhagwan Shree Rajneesh ki Sachchi Kahani",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "India ke Sabse Bade Bank Robbery",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Ganga ki Safai: Ek Anokhi Kahani",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Mumbai ke Bhootiya Jagah",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Bharat ke Sabse Bade Haadsa",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Dunia ki Sabse Bhayankar Jaanwar",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "India ke Top 5 Unsolved Murders",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Bharat ke Sabse Amar Shahar",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Pondicherry ki Bhootiya Kahani",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "India ke Sabse Bade Scams",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Dunia ki Sabse Ajeeb Cheezein",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Bharat ke Sabse Bhayankar Crimes",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "India ke Sabse Bade Mysteries",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Gujarat ke Bhootiya Jagah",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Dunia ki Sabse Tez Chalne Wali Cheezein",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Bharat ke Sabse Bade Haadsa: Ek Vishleshan",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "India ke Sabse Bade Spy Scandals",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Purvottar Bharat ke Bhootiya Jagah",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Dunia ki Sabse Ajeeb Bhashayein",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-06"
+    },
+    {
+      "topic": "Bharat ke Sabse Bade Haadsa: Ek Adhyayan",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-06"
+    }
+  ]
+}

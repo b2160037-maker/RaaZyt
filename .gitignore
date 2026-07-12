@@ -1,0 +1,34 @@
+# --- Secrets / tokens: NEVER commit these ---
+.env
+token.json
+client_secret.json
+*client_secret*.json
+*token*.json
+service_account*.json
+rclone.conf
+*.credentials
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Heavy GENERATED media (kept as Actions artifacts instead) ---
+output/*/long.mp4
+output/*/short1.mp4
+output/*/short2.mp4
+output/*/short3.mp4
+output/**/*.wav
+output/**/*.mp3
+# NOTE: assets/music, assets/sfx and assets/brand media ARE committed on purpose
+# (GitHub Actions needs your background music + brand assets at run time).
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# Keep folder placeholders
+!**/.gitkeep

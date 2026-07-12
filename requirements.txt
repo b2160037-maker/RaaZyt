@@ -1,0 +1,15 @@
+edge-tts
+gtts
+google-generativeai
+groq
+requests
+moviepy==1.0.3
+Pillow
+numpy
+pydub
+mutagen
+google-api-python-client
+google-auth-oauthlib
+google-auth
+python-dotenv
+pytrends

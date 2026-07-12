@@ -1,0 +1,10 @@
+{
+  "_how_to_use": "Add objects to 'requests'. Each entry: date (YYYY-MM-DD, IST), topic, optional type (unsolved_mystery|true_story|mind_blowing_fact). The 6 AM job on that date uses YOUR topic instead of the auto SEO pick. For a custom thumbnail, drop <date>.png OR <slug>.png in the thumbnails/ folder.",
+  "requests": [
+    {
+      "date": "2026-07-10",
+      "topic": "Bharat ki Sabse Badi Bank Robbery",
+      "type": "true_story"
+    }
+  ]
+}

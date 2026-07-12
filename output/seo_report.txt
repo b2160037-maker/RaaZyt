@@ -1,0 +1,24 @@
+WEEKLY SEO REPORT (2026-07-06)
+========================================
+New topics added from competitor gaps: 20
+  - Bhagwan Shree Rajneesh ki Sachchi Kahani
+  - India ke Sabse Bade Bank Robbery
+  - Ganga ki Safai: Ek Anokhi Kahani
+  - Mumbai ke Bhootiya Jagah
+  - Bharat ke Sabse Bade Haadsa
+  - Dunia ki Sabse Bhayankar Jaanwar
+  - India ke Top 5 Unsolved Murders
+  - Bharat ke Sabse Amar Shahar
+  - Pondicherry ki Bhootiya Kahani
+  - India ke Sabse Bade Scams
+  - Dunia ki Sabse Ajeeb Cheezein
+  - Bharat ke Sabse Bhayankar Crimes
+  - India ke Sabse Bade Mysteries
+  - Gujarat ke Bhootiya Jagah
+  - Dunia ki Sabse Tez Chalne Wali Cheezein
+  - Bharat ke Sabse Bade Haadsa: Ek Vishleshan
+  - India ke Sabse Bade Spy Scandals
+  - Purvottar Bharat ke Bhootiya Jagah
+  - Dunia ki Sabse Ajeeb Bhashayein
+  - Bharat ke Sabse Bade Haadsa: Ek Adhyayan
+Analytics: unavailable (add yt-analytics.readonly scope via get_token.py)
