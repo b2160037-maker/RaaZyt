@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-13",
+  "topic": "Dyatlov Pass Incident: Russia ke pahado mein un 9 trekkers ke saath kya hua tha?",
+  "long_url": "https://www.youtube.com/watch?v=rEnV38y4V3k",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=amhjSKjZ0wE (live: now)",
+    "https://www.youtube.com/watch?v=B2YJK22nJbE (live: scheduled 2026-07-13T13:50:36Z)",
+    "https://www.youtube.com/watch?v=UWCh73e8kbc (live: scheduled 2026-07-14T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
