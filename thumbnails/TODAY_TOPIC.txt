@@ -1,4 +1,4 @@
-TOPIC: Mumbai ke Bhootiya Jagah
-SLUG: mumbai_ke_bhootiya_jagah
-DATE: 2026-07-12
-THUMBNAIL FILENAME TO DROP: mumbai_ke_bhootiya_jagah.png  (1280x720)
+TOPIC: Dyatlov Pass Incident: Russia ke pahado mein un 9 trekkers ke saath kya hua tha?
+SLUG: dyatlov_pass_incident_russia_ke_pahado_mein_un_9_trekkers_ke_saath_kya_hua_tha
+DATE: 2026-07-13
+THUMBNAIL FILENAME TO DROP: dyatlov_pass_incident_russia_ke_pahado_mein_un_9_trekkers_ke_saath_kya_hua_tha.png  (1280x720)
