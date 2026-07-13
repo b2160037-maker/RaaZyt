@@ -1,108 +1,108 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-13",
   "topics": [
     {
-      "topic": "Bhagwan Shree Rajneesh ki Sachchi Kahani",
+      "topic": "Dyatlov Pass Incident: Russia ke pahado mein un 9 trekkers ke saath kya hua tha?",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Mary Celeste: Samundar ke beech se bina kisi nishaan ke gayab hui puri crew ka raaz",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Dancing Plague of 1518: Jab log naachte-naachte marne lage!",
       "type": "true_story"
     },
     {
-      "topic": "India ke Sabse Bade Bank Robbery",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "Ganga ki Safai: Ek Anokhi Kahani",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Mumbai ke Bhootiya Jagah",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "Bharat ke Sabse Bade Haadsa",
+      "topic": "Shanti Devi Case: India ka sabse hairan karne wala Real Reincarnation (Punarjanam) ka sach",
       "type": "true_story"
     },
     {
-      "topic": "Dunia ki Sabse Bhayankar Jaanwar",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "India ke Top 5 Unsolved Murders",
+      "topic": "The Sodder Children Disappearance: Aag ke beech se 5 bachhe kaise gayab ho gaye?",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Bharat ke Sabse Amar Shahar",
+      "topic": "Wow! Signal: Kya sach mein humein aliens ka message mila tha?",
       "type": "mind_blowing_fact"
     },
     {
-      "topic": "Pondicherry ki Bhootiya Kahani",
+      "topic": "Lake Natron: Ek aisi jheel jo her ek jaanwar ko patthar bana deti hai",
+      "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "The Oak Island Money Pit: 200 saal se chhupa khazana jo aaj tak koi nahi dhund paya",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "India ke Sabse Bade Scams",
+      "topic": "Roanoke Colony: Ek hi raat mein pura gaon aur uske log kahan gayab ho gaye?",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Man from Taured: Ek aise desh ka musafir jo real world mein exist hi nahi karta",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Green Children of Woolpit: Hare rang ke bachhe jo achanak dharti par prakat hue",
       "type": "true_story"
     },
     {
-      "topic": "Dunia ki Sabse Ajeeb Cheezein",
+      "topic": "Lake Anjikuni: Pura Eskimo kabeela raaton-raat hawa mein kaise gayab hua?",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Lead Masks Case: Brazil ki pahadiyo par mili do ajeeb lashein aur unke metallic masks",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Klerksdorp Spheres: Millions of years purane patthar jo humans ne nahi banaye",
       "type": "mind_blowing_fact"
     },
     {
-      "topic": "Bharat ke Sabse Bhayankar Crimes",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "India ke Sabse Bade Mysteries",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "Gujarat ke Bhootiya Jagah",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "Dunia ki Sabse Tez Chalne Wali Cheezein",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Bharat ke Sabse Bade Haadsa: Ek Vishleshan",
+      "topic": "Tarrare: History ka sabse bhukkad insaan jo mitti, kachra aur billi tak kha jata tha",
       "type": "true_story"
     },
     {
-      "topic": "India ke Sabse Bade Spy Scandals",
+      "topic": "Ourang Medan: Ship par sabki maut ek saath kaise hui? Ek ajeeb sangeen raaz",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Purvottar Bharat ke Bhootiya Jagah",
-      "type": "unsolved_mystery"
-    },
-    {
-      "topic": "Dunia ki Sabse Ajeeb Bhashayein",
+      "topic": "Gobekli Tepe: History se bhi purana mandir jisne human evolution ki thory ko badal diya",
       "type": "mind_blowing_fact"
     },
     {
-      "topic": "Bharat ke Sabse Bade Haadsa: Ek Adhyayan",
+      "topic": "The Voynich Manuscript: Ek aisi rahasyamayi kitaab jise aaj tak koi nahi padh paya",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Silent Twins: Do behne jo sirf ek doosre se apni khud ki language mein baat karti thin",
       "type": "true_story"
+    },
+    {
+      "topic": "The Kentucky Meat Shower: Jab achanak aasmaan se meat ke tukdo ki baarish hone lagi",
+      "type": "mind_blowing_fact"
     }
   ],
   "added": [
-    "Bhagwan Shree Rajneesh ki Sachchi Kahani",
-    "India ke Sabse Bade Bank Robbery",
-    "Ganga ki Safai: Ek Anokhi Kahani",
-    "Mumbai ke Bhootiya Jagah",
-    "Bharat ke Sabse Bade Haadsa",
-    "Dunia ki Sabse Bhayankar Jaanwar",
-    "India ke Top 5 Unsolved Murders",
-    "Bharat ke Sabse Amar Shahar",
-    "Pondicherry ki Bhootiya Kahani",
-    "India ke Sabse Bade Scams",
-    "Dunia ki Sabse Ajeeb Cheezein",
-    "Bharat ke Sabse Bhayankar Crimes",
-    "India ke Sabse Bade Mysteries",
-    "Gujarat ke Bhootiya Jagah",
-    "Dunia ki Sabse Tez Chalne Wali Cheezein",
-    "Bharat ke Sabse Bade Haadsa: Ek Vishleshan",
-    "India ke Sabse Bade Spy Scandals",
-    "Purvottar Bharat ke Bhootiya Jagah",
-    "Dunia ki Sabse Ajeeb Bhashayein",
-    "Bharat ke Sabse Bade Haadsa: Ek Adhyayan"
+    "Dyatlov Pass Incident: Russia ke pahado mein un 9 trekkers ke saath kya hua tha?",
+    "Mary Celeste: Samundar ke beech se bina kisi nishaan ke gayab hui puri crew ka raaz",
+    "The Dancing Plague of 1518: Jab log naachte-naachte marne lage!",
+    "Shanti Devi Case: India ka sabse hairan karne wala Real Reincarnation (Punarjanam) ka sach",
+    "The Sodder Children Disappearance: Aag ke beech se 5 bachhe kaise gayab ho gaye?",
+    "Wow! Signal: Kya sach mein humein aliens ka message mila tha?",
+    "Lake Natron: Ek aisi jheel jo her ek jaanwar ko patthar bana deti hai",
+    "The Oak Island Money Pit: 200 saal se chhupa khazana jo aaj tak koi nahi dhund paya",
+    "Roanoke Colony: Ek hi raat mein pura gaon aur uske log kahan gayab ho gaye?",
+    "The Man from Taured: Ek aise desh ka musafir jo real world mein exist hi nahi karta",
+    "The Green Children of Woolpit: Hare rang ke bachhe jo achanak dharti par prakat hue",
+    "Lake Anjikuni: Pura Eskimo kabeela raaton-raat hawa mein kaise gayab hua?",
+    "The Lead Masks Case: Brazil ki pahadiyo par mili do ajeeb lashein aur unke metallic masks",
+    "Klerksdorp Spheres: Millions of years purane patthar jo humans ne nahi banaye",
+    "Tarrare: History ka sabse bhukkad insaan jo mitti, kachra aur billi tak kha jata tha",
+    "Ourang Medan: Ship par sabki maut ek saath kaise hui? Ek ajeeb sangeen raaz",
+    "Gobekli Tepe: History se bhi purana mandir jisne human evolution ki thory ko badal diya",
+    "The Voynich Manuscript: Ek aisi rahasyamayi kitaab jise aaj tak koi nahi padh paya",
+    "Silent Twins: Do behne jo sirf ek doosre se apni khud ki language mein baat karti thin",
+    "The Kentucky Meat Shower: Jab achanak aasmaan se meat ke tukdo ki baarish hone lagi"
   ],
   "refreshed": []
 }
