@@ -3,7 +3,7 @@ QA REPORT
 long: /home/runner/work/RaaZyt/RaaZyt/output/2026-07-13/long.mp4
 shorts: 3
 thumb: /home/runner/work/RaaZyt/RaaZyt/output/2026-07-13/thumb.jpg
-narration_sec: 651.9
+narration_sec: 132.7
 outro enforced: True
 
 RESULT: PASS
