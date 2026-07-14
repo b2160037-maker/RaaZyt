@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-14",
+  "topic": "Mary Celeste: Samundar ke beech se bina kisi nishaan ke gayab hui puri crew ka raaz",
+  "long_url": "https://www.youtube.com/watch?v=ZYVB4-mIoUs",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=yqtNT3inLoo (live: now)",
+    "https://www.youtube.com/watch?v=uxMU3Ygtsnk (live: scheduled 2026-07-14T14:28:10Z)",
+    "https://www.youtube.com/watch?v=2EzcG5p3OpE (live: scheduled 2026-07-15T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
