@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-15",
+  "topic": "The Dancing Plague of 1518: Jab log naachte-naachte marne lage!",
+  "long_url": "https://www.youtube.com/watch?v=Lx0mGUk59CM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=LElfh86OZVk (live: now)",
+    "https://www.youtube.com/watch?v=Up-OJBw2g6w (live: scheduled 2026-07-15T14:23:56Z)",
+    "https://www.youtube.com/watch?v=h47JwUXIz50 (live: scheduled 2026-07-16T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
