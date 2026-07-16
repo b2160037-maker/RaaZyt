@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-16",
+  "topic": "Shanti Devi Case: India ka sabse hairan karne wala Real Reincarnation (Punarjanam) ka sach",
+  "long_url": "https://www.youtube.com/watch?v=AsXEr79zZhk",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=k1wLcsfNx-8 (live: now)",
+    "https://www.youtube.com/watch?v=TewQLv3yFpw (live: scheduled 2026-07-16T14:47:33Z)",
+    "https://www.youtube.com/watch?v=xHHQb-SABGw (live: scheduled 2026-07-17T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
