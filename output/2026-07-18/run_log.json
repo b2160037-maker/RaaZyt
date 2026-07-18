@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-18",
+  "topic": "Wow! Signal: Kya sach mein humein aliens ka message mila tha?",
+  "long_url": "https://www.youtube.com/watch?v=oGV-eHYrAUM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=0AlaE54ps14 (live: now)",
+    "https://www.youtube.com/watch?v=DR95SYJLgAQ (live: scheduled 2026-07-18T13:17:07Z)",
+    "https://www.youtube.com/watch?v=HAwdPdiVF4g (live: scheduled 2026-07-19T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
