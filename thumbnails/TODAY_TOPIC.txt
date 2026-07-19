@@ -1,4 +1,4 @@
-TOPIC: Wow! Signal: Kya sach mein humein aliens ka message mila tha?
-SLUG: wow_signal_kya_sach_mein_humein_aliens_ka_message_mila_tha
-DATE: 2026-07-18
-THUMBNAIL FILENAME TO DROP: wow_signal_kya_sach_mein_humein_aliens_ka_message_mila_tha.png  (1280x720)
+TOPIC: Lake Natron: Ek aisi jheel jo her ek jaanwar ko patthar bana deti hai
+SLUG: lake_natron_ek_aisi_jheel_jo_her_ek_jaanwar_ko_patthar_bana_deti_hai
+DATE: 2026-07-19
+THUMBNAIL FILENAME TO DROP: lake_natron_ek_aisi_jheel_jo_her_ek_jaanwar_ko_patthar_bana_deti_hai.png  (1280x720)
