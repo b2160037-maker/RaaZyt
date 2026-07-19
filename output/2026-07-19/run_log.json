@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-19",
+  "topic": "Lake Natron: Ek aisi jheel jo her ek jaanwar ko patthar bana deti hai",
+  "long_url": "https://www.youtube.com/watch?v=YTAkzgdbDN4",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=IZysufzriSg (live: now)",
+    "https://www.youtube.com/watch?v=Yu-TbjA_Gv0 (live: scheduled 2026-07-19T13:30:27Z)",
+    "https://www.youtube.com/watch?v=XezORzqpdS8 (live: scheduled 2026-07-20T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
