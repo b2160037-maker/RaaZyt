@@ -110,7 +110,8 @@
     },
     {
       "topic": "The Dancing Plague of 1518: Jab Log Naachte-Naachte Mar Gaye",
-      "type": "true_story"
+      "type": "true_story",
+      "added": "2026-07-20"
     },
     {
       "topic": "The Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Koi Code Nahi Kar Saka",
@@ -539,6 +540,120 @@
       "type": "true_story",
       "source": "seo",
       "added": "2026-07-13"
+    },
+    {
+      "topic": "Kuldhara Village: Ek Raat Mein Gayab Hua Pura Gaon Ka Rahasya",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Padmanabhaswamy Temple Vault B: Woh Darwaza Jise Kholna Maut Ko Bulana Hai",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Dyatlov Pass Incident: Russia Ke Pahaado Mein 9 Trekkers Ki Rahasya-mayi Maut",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Duniya Ka Koi Scientist Nahi Padh Saka",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Mandela Effect: Kya Hamari Memory Kisi Ne Hack Kar Di Hai?",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Mary Celeste: Samundar Ke Beech Khali Mile Ghost Ship Ka Sach",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Roanoke Colony: Ek Pura Shehar Hawa Mein Kaise Gayab Ho Gaya?",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Simulation Theory: Kya Hum Sab Ek Video Game Ke Characters Hain?",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Lead Masks Case: Brazil Ke Pahaado Par Do Engineers Ki Rahasyamay Maut",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Sodder Children Disappearance: Christmas Ki Raat Aag Ke Beech Gayab Hue 5 Bachhe",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Oak Island Money Pit: 200 Saal Se Chupa Khazana Aur Uska Shrap",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Fermi Paradox: Agar Aliens Hain Toh Woh Humse Milte Kyun Nahi?",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "SS Ourang Medan: Ek Aisa Ship Jiska Pura Crew Ek Hi Waqt Par Jam Gaya",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Tardigrades: Ek Aisa Jeev Jo Space Ki Thand Aur Volcano Ki Garmi Mein Bhi Zinda Rehta Hai",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Green Children of Woolpit: Do Hare Rang Ke Bachhe Jo Achanak Asman Se Gire",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Kailash Temple Architecture: Ancient Aliens Ya Super Advanced Technology?",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "The Man from Taured: Ek Aise Desh Ka Musafir Jo Map Par Exit Hi Nahi Karta",
+      "type": "true_story",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Voyager 1 Golden Record: Agar Aliens Ko Yeh Mila Toh Kya Hoga?",
+      "type": "mind_blowing_fact",
+      "source": "seo",
+      "added": "2026-07-20"
+    },
+    {
+      "topic": "Shugborough Inscription: Ek Code Jo Aaj Tak Kisi Se Decode Nahi Hua",
+      "type": "unsolved_mystery",
+      "source": "seo",
+      "added": "2026-07-20"
     }
   ]
 }

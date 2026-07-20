@@ -1,24 +1,23 @@
-WEEKLY SEO REPORT (2026-07-13)
+WEEKLY SEO REPORT (2026-07-20)
 ========================================
-New topics added from competitor gaps: 20
-  - Bhagavad Gita ke Bhootiya Rahasya
-  - Mumbai ke Bhootiya Station
-  - Dunia ke Sabse Bhootiya Jagah
-  - India ke Sabse Rahasyamay Khandhar
-  - Bharat ke Bhootiya Mandir
-  - Dunia ke Sabse Adbhut Aur Bhootiya Jagah
-  - Rajasthan ke Bhootiya Qila
-  - Bhagavad Gita ke Bhootiya Prachin Rahasya
-  - Dunia ke Sabse Bhootiya Pahad
-  - India ke Sabse Bhootiya Sadak
-  - Mumbai ke Bhootiya Building
-  - Dunia ke Sabse Adbhut Aur Bhootiya Nadi
-  - Bharat ke Bhootiya Jheel
-  - India ke Sabse Bhootiya Gaon
-  - Dunia ke Sabse Bhootiya Shahar
-  - Rajasthan ke Bhootiya Gaon
-  - Bhagavad Gita ke Bhootiya Rahasya aur Sachchai
-  - Dunia ke Sabse Adbhut Aur Bhootiya Jungle
-  - India ke Sabse Bhootiya Pahad
-  - Mumbai ke Bhootiya Mandir
+New topics added from competitor gaps: 19
+  - Kuldhara Village: Ek Raat Mein Gayab Hua Pura Gaon Ka Rahasya
+  - Padmanabhaswamy Temple Vault B: Woh Darwaza Jise Kholna Maut Ko Bulana Hai
+  - Dyatlov Pass Incident: Russia Ke Pahaado Mein 9 Trekkers Ki Rahasya-mayi Maut
+  - Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Duniya Ka Koi Scientist Nahi Padh Saka
+  - The Mandela Effect: Kya Hamari Memory Kisi Ne Hack Kar Di Hai?
+  - The Mary Celeste: Samundar Ke Beech Khali Mile Ghost Ship Ka Sach
+  - Roanoke Colony: Ek Pura Shehar Hawa Mein Kaise Gayab Ho Gaya?
+  - Simulation Theory: Kya Hum Sab Ek Video Game Ke Characters Hain?
+  - The Lead Masks Case: Brazil Ke Pahaado Par Do Engineers Ki Rahasyamay Maut
+  - Sodder Children Disappearance: Christmas Ki Raat Aag Ke Beech Gayab Hue 5 Bachhe
+  - Oak Island Money Pit: 200 Saal Se Chupa Khazana Aur Uska Shrap
+  - The Fermi Paradox: Agar Aliens Hain Toh Woh Humse Milte Kyun Nahi?
+  - SS Ourang Medan: Ek Aisa Ship Jiska Pura Crew Ek Hi Waqt Par Jam Gaya
+  - Tardigrades: Ek Aisa Jeev Jo Space Ki Thand Aur Volcano Ki Garmi Mein Bhi Zinda Rehta Hai
+  - The Green Children of Woolpit: Do Hare Rang Ke Bachhe Jo Achanak Asman Se Gire
+  - Kailash Temple Architecture: Ancient Aliens Ya Super Advanced Technology?
+  - The Man from Taured: Ek Aise Desh Ka Musafir Jo Map Par Exit Hi Nahi Karta
+  - Voyager 1 Golden Record: Agar Aliens Ko Yeh Mila Toh Kya Hoga?
+  - Shugborough Inscription: Ek Code Jo Aaj Tak Kisi Se Decode Nahi Hua
 Analytics: unavailable (add yt-analytics.readonly scope via get_token.py)
