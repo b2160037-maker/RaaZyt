@@ -1,0 +1,9 @@
+QA REPORT
+========================================
+long: /home/runner/work/RaaZyt/RaaZyt/output/2026-07-20/long.mp4
+shorts: 3
+thumb: /home/runner/work/RaaZyt/RaaZyt/output/2026-07-20/thumb.jpg
+narration_sec: 380.5
+outro enforced: True
+
+RESULT: PASS
