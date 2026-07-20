@@ -1,4 +1,4 @@
-TOPIC: Lake Natron: Ek aisi jheel jo her ek jaanwar ko patthar bana deti hai
-SLUG: lake_natron_ek_aisi_jheel_jo_her_ek_jaanwar_ko_patthar_bana_deti_hai
-DATE: 2026-07-19
-THUMBNAIL FILENAME TO DROP: lake_natron_ek_aisi_jheel_jo_her_ek_jaanwar_ko_patthar_bana_deti_hai.png  (1280x720)
+TOPIC: The Oak Island Money Pit: 200 saal se chhupa khazana jo aaj tak koi nahi dhund paya
+SLUG: the_oak_island_money_pit_200_saal_se_chhupa_khazana_jo_aaj_tak_koi_nahi_dhund_paya
+DATE: 2026-07-20
+THUMBNAIL FILENAME TO DROP: the_oak_island_money_pit_200_saal_se_chhupa_khazana_jo_aaj_tak_koi_nahi_dhund_paya.png  (1280x720)
