@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-21",
+  "topic": "The Dancing Plague of 1518: Jab Log Naachte-Naachte Mar Gaye",
+  "long_url": "https://www.youtube.com/watch?v=M3L2jZ0cllM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=MjEw6sdYBPw (live: now)",
+    "https://www.youtube.com/watch?v=Nb5AGgIam1o (live: scheduled 2026-07-21T14:48:23Z)",
+    "https://www.youtube.com/watch?v=I1INEnkrDyw (live: scheduled 2026-07-22T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
