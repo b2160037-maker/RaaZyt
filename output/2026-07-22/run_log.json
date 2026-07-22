@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-22",
+  "topic": "Kuldhara Village: Ek Raat Mein Gayab Hua Pura Gaon Ka Rahasya",
+  "long_url": "https://www.youtube.com/watch?v=uAmUnoNh7EY",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=rraW-z2Kkto (live: now)",
+    "https://www.youtube.com/watch?v=-IsEbC5Vwx0 (live: scheduled 2026-07-22T14:54:11Z)",
+    "https://www.youtube.com/watch?v=muphT3bsoGc (live: scheduled 2026-07-23T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
