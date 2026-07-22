@@ -1,4 +1,4 @@
-TOPIC: The Dancing Plague of 1518: Jab Log Naachte-Naachte Mar Gaye
-SLUG: the_dancing_plague_of_1518_jab_log_naachte_naachte_mar_gaye
-DATE: 2026-07-21
-THUMBNAIL FILENAME TO DROP: the_dancing_plague_of_1518_jab_log_naachte_naachte_mar_gaye.png  (1280x720)
+TOPIC: Kuldhara Village: Ek Raat Mein Gayab Hua Pura Gaon Ka Rahasya
+SLUG: kuldhara_village_ek_raat_mein_gayab_hua_pura_gaon_ka_rahasya
+DATE: 2026-07-22
+THUMBNAIL FILENAME TO DROP: kuldhara_village_ek_raat_mein_gayab_hua_pura_gaon_ka_rahasya.png  (1280x720)
