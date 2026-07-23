@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-23",
+  "topic": "Padmanabhaswamy Temple Vault B: Woh Darwaza Jise Kholna Maut Ko Bulana Hai",
+  "long_url": "https://www.youtube.com/watch?v=Ke1BvIhJHOg",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=AhPHo6YxM0g (live: now)",
+    "https://www.youtube.com/watch?v=Ud0qGyWaHaU (live: scheduled 2026-07-23T14:44:19Z)",
+    "https://www.youtube.com/watch?v=4WlsIQr1wyU (live: scheduled 2026-07-24T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
