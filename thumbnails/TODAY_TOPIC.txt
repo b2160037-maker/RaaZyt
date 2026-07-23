@@ -1,4 +1,4 @@
-TOPIC: Kuldhara Village: Ek Raat Mein Gayab Hua Pura Gaon Ka Rahasya
-SLUG: kuldhara_village_ek_raat_mein_gayab_hua_pura_gaon_ka_rahasya
-DATE: 2026-07-22
-THUMBNAIL FILENAME TO DROP: kuldhara_village_ek_raat_mein_gayab_hua_pura_gaon_ka_rahasya.png  (1280x720)
+TOPIC: Padmanabhaswamy Temple Vault B: Woh Darwaza Jise Kholna Maut Ko Bulana Hai
+SLUG: padmanabhaswamy_temple_vault_b_woh_darwaza_jise_kholna_maut_ko_bulana_hai
+DATE: 2026-07-23
+THUMBNAIL FILENAME TO DROP: padmanabhaswamy_temple_vault_b_woh_darwaza_jise_kholna_maut_ko_bulana_hai.png  (1280x720)
