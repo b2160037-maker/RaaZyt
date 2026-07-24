@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-24",
+  "topic": "Dyatlov Pass Incident: Russia Ke Pahaado Mein 9 Trekkers Ki Rahasya-mayi Maut",
+  "long_url": "https://www.youtube.com/watch?v=0hIa8R64BkU",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=QXddaAUoJzQ (live: now)",
+    "https://www.youtube.com/watch?v=puDjXlN8kS8 (live: scheduled 2026-07-24T14:52:55Z)",
+    "https://www.youtube.com/watch?v=7C1svwn_8Oo (live: scheduled 2026-07-25T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
