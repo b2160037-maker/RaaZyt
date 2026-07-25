@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-25",
+  "topic": "Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Duniya Ka Koi Scientist Nahi Padh Saka",
+  "long_url": "https://www.youtube.com/watch?v=quwU7TAM65Q",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=H6X86qTMWE8 (live: now)",
+    "https://www.youtube.com/watch?v=QlUeuDRBpGc (live: scheduled 2026-07-25T14:03:34Z)",
+    "https://www.youtube.com/watch?v=jNwLl4T630w (live: scheduled 2026-07-26T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
