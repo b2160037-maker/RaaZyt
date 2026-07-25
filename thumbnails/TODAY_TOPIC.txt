@@ -1,4 +1,4 @@
-TOPIC: Dyatlov Pass Incident: Russia Ke Pahaado Mein 9 Trekkers Ki Rahasya-mayi Maut
-SLUG: dyatlov_pass_incident_russia_ke_pahaado_mein_9_trekkers_ki_rahasya_mayi_maut
-DATE: 2026-07-24
-THUMBNAIL FILENAME TO DROP: dyatlov_pass_incident_russia_ke_pahaado_mein_9_trekkers_ki_rahasya_mayi_maut.png  (1280x720)
+TOPIC: Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Duniya Ka Koi Scientist Nahi Padh Saka
+SLUG: voynich_manuscript_ek_aisi_kitab_jise_aaj_tak_duniya_ka_koi_scientist_nahi_padh_saka
+DATE: 2026-07-25
+THUMBNAIL FILENAME TO DROP: voynich_manuscript_ek_aisi_kitab_jise_aaj_tak_duniya_ka_koi_scientist_nahi_padh_saka.png  (1280x720)
