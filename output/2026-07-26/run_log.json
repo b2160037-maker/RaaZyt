@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-26",
+  "topic": "The Mandela Effect: Kya Hamari Memory Kisi Ne Hack Kar Di Hai?",
+  "long_url": "https://www.youtube.com/watch?v=8BJWsYGZyug",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=DPBaienXD7Q (live: now)",
+    "https://www.youtube.com/watch?v=IKDUwEevtZ0 (live: scheduled 2026-07-26T14:13:43Z)",
+    "https://www.youtube.com/watch?v=_Hn30bSTwS0 (live: scheduled 2026-07-27T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
