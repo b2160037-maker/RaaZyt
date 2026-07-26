@@ -1,4 +1,4 @@
-TOPIC: Voynich Manuscript: Ek Aisi Kitab Jise Aaj Tak Duniya Ka Koi Scientist Nahi Padh Saka
-SLUG: voynich_manuscript_ek_aisi_kitab_jise_aaj_tak_duniya_ka_koi_scientist_nahi_padh_saka
-DATE: 2026-07-25
-THUMBNAIL FILENAME TO DROP: voynich_manuscript_ek_aisi_kitab_jise_aaj_tak_duniya_ka_koi_scientist_nahi_padh_saka.png  (1280x720)
+TOPIC: The Mandela Effect: Kya Hamari Memory Kisi Ne Hack Kar Di Hai?
+SLUG: the_mandela_effect_kya_hamari_memory_kisi_ne_hack_kar_di_hai
+DATE: 2026-07-26
+THUMBNAIL FILENAME TO DROP: the_mandela_effect_kya_hamari_memory_kisi_ne_hack_kar_di_hai.png  (1280x720)
