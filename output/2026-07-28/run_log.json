@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-28",
+  "topic": "Ashoka's 9 Unknown Men: India's Illuminati Mystery Explained",
+  "long_url": "https://www.youtube.com/watch?v=J6B6dgaB1pY",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=u1rvd8GHpz8 (live: now)",
+    "https://www.youtube.com/watch?v=AFkTlhAzhWE (live: scheduled 2026-07-28T15:16:01Z)",
+    "https://www.youtube.com/watch?v=dLVqMWs8768 (live: scheduled 2026-07-29T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
