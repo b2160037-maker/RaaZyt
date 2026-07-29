@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-29",
+  "topic": "Dyatlov Pass Incident: 9 Hikers Ki Khaufnak Maut Ka Sach",
+  "long_url": "https://www.youtube.com/watch?v=i30bykJrOzo",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=uf_RCnAVDSg (live: now)",
+    "https://www.youtube.com/watch?v=06WLaa1EQXQ (live: scheduled 2026-07-29T16:03:17Z)",
+    "https://www.youtube.com/watch?v=J9T8nWkUtyc (live: scheduled 2026-07-30T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
