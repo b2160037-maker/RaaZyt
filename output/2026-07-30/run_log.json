@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-30",
+  "topic": "Skeleton Lake of Roopkund: Himalayan Pahadon Mein 800 Kankal Kiske Hain?",
+  "long_url": "https://www.youtube.com/watch?v=ZBPhE6gdkrM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=z1AZAzZZh8s (live: now)",
+    "https://www.youtube.com/watch?v=ipP37yhvcl8 (live: scheduled 2026-07-30T14:51:11Z)",
+    "https://www.youtube.com/watch?v=4W55OUWneDQ (live: scheduled 2026-07-31T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
