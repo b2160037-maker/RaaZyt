@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-31",
+  "topic": "The Voynich Manuscript: Duniya Ki Sabse Rahasyamayi Kitab",
+  "long_url": "https://www.youtube.com/watch?v=6_iS6-1mBTQ",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=nP_nzxt-eVk (live: now)",
+    "https://www.youtube.com/watch?v=3CmeCOpgaYU (live: scheduled 2026-07-31T15:47:28Z)",
+    "https://www.youtube.com/watch?v=5aWKsh9rhto (live: scheduled 2026-08-01T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
