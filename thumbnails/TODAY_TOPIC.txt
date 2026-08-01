@@ -1,4 +1,4 @@
-TOPIC: The Voynich Manuscript: Duniya Ki Sabse Rahasyamayi Kitab
-SLUG: the_voynich_manuscript_duniya_ki_sabse_rahasyamayi_kitab
-DATE: 2026-07-31
-THUMBNAIL FILENAME TO DROP: the_voynich_manuscript_duniya_ki_sabse_rahasyamayi_kitab.png  (1280x720)
+TOPIC: Dancing Plague of 1518: Jab Log Nachte-Nachte Mar Gaye
+SLUG: dancing_plague_of_1518_jab_log_nachte_nachte_mar_gaye
+DATE: 2026-08-01
+THUMBNAIL FILENAME TO DROP: dancing_plague_of_1518_jab_log_nachte_nachte_mar_gaye.png  (1280x720)
