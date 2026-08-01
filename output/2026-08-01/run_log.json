@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-01",
+  "topic": "Dancing Plague of 1518: Jab Log Nachte-Nachte Mar Gaye",
+  "long_url": "https://www.youtube.com/watch?v=-5u4bNKjBFg",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=ia9ZPsgEolc (live: now)",
+    "https://www.youtube.com/watch?v=n4___OFPJf8 (live: scheduled 2026-08-01T13:43:38Z)",
+    "https://www.youtube.com/watch?v=D4PQeqjHKqk (live: scheduled 2026-08-02T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
