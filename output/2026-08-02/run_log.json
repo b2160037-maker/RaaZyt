@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-02",
+  "topic": "The Wow! Signal: Space Se Aaya Alien Message Ya Ek Galatfahmi?",
+  "long_url": "https://www.youtube.com/watch?v=_ulsyF9Y5SM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=NILfUQ-yBDo (live: now)",
+    "https://www.youtube.com/watch?v=S7sRyaprEG4 (live: scheduled 2026-08-02T14:08:24Z)",
+    "https://www.youtube.com/watch?v=IUMBNBgtbMA (live: scheduled 2026-08-03T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
