@@ -1,24 +1,24 @@
-WEEKLY SEO REPORT (2026-07-27)
+WEEKLY SEO REPORT (2026-08-03)
 ========================================
 New topics added from competitor gaps: 20
-  - Ashoka's 9 Unknown Men: India's Illuminati Mystery Explained
-  - Dyatlov Pass Incident: 9 Hikers Ki Khaufnak Maut Ka Sach
-  - Skeleton Lake of Roopkund: Himalayan Pahadon Mein 800 Kankal Kiske Hain?
-  - The Voynich Manuscript: Duniya Ki Sabse Rahasyamayi Kitab
-  - Dancing Plague of 1518: Jab Log Nachte-Nachte Mar Gaye
-  - The Wow! Signal: Space Se Aaya Alien Message Ya Ek Galatfahmi?
-  - Oak Island Money Pit: 200 Saal Se Chhupa Khazana Jo Koi Nahi Dhoond Paya
-  - Tunguska Explosion: Jab Bina Asteroid Ke Ek Jungle Tabah Ho Gaya
-  - The Lead Masks Case: 2 Engineers Ki Ajeeb Maut Ka Raaz
-  - Mary Celeste: Samundar Mein Bina Crew Ke Tairti Ghost Ship Ka Sach
-  - Lost Cosmonauts: Soviet Union Ke Chhupe Huye Space Missions
-  - Kuldhara Village: Ek Hi Raat Mein 84 Gaon Khali Kaise Huye?
-  - Antikythera Mechanism: 2000 Saal Purana Ancient Computer
-  - The Devil's Footprints: Ek Raat Mein Baraf Par Bane Ajeeb Nishan
-  - Green Children of Woolpit: Hare Rang Ke Bachhon Ka Rahasya
-  - The Bloop Sound: Deep Ocean Ka Sabse Bada Undiscovered Creature?
-  - Zodiac Killer: Coded Messages Bhejne Wale Khunkhar Qatil Ka Raaz
-  - Taos Hum: Ek Aisi Awaaz Jo Sirf 2% Logo Ko Sunayi Deti Hai
-  - Phantom Time Hypothesis: Kya Hum Sach Mein Year 2024 Mein Ji Rahe Hain?
-  - Flight 19 Disappearance: Bermuda Triangle Ka Sabse Bada Shikar
+  - Skeleton Lake Mystery: What Killed 800 People at Roopkund?
+  - The Dyatlov Pass Incident: What Really Happened to the 9 Hikers?
+  - The Wow! Signal: Did We Receive an Alien Message in 1977?
+  - Voynich Manuscript: The Ancient Book That No One Can Read
+  - Jatinga Bird Suicide Mystery: Why Birds Crash to Death in Assam
+  - The Mystery of Satoshi Nakamoto: Who Really Created Bitcoin?
+  - The Dancing Plague of 1518: When People Danced to Death
+  - The Boiling River of the Amazon: Water Hot Enough to Cook You Alive
+  - Flannan Isles Lighthouse Mystery: Where Did 3 Keepers Vanish?
+  - CIA Kryptos Statue: The 30-Year-Old Unbroken Code
+  - Sailing Stones of Death Valley: How Rocks Move on Their Own
+  - The Taos Hum: The Unexplained Sound Annoying People Worldwide
+  - Devil's Kettle Waterfall: Where Does the Disappearing Water Go?
+  - The Max Headroom Incident: Unsolved TV Hijack Mystery
+  - Kuldhara Ghost Village: Why 84 Villages Vanished Overnight
+  - Oak Island Money Pit: The 200-Year-Old Treasure Trap
+  - The Green Children of Woolpit: Strange 12th Century Mystery
+  - The Lost Colony of Roanoke: 115 People Disappeared Without a Trace
+  - Eternal Flame Falls: The Fire Burning Behind Water
+  - Tunguska Event: The Mysterious Explosion That Flattened 80 Million Trees
 Analytics: unavailable (add yt-analytics.readonly scope via get_token.py)
