@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-03",
+  "topic": "Oak Island Money Pit: 200 Saal Se Chhupa Khazana Jo Koi Nahi Dhoond Paya",
+  "long_url": "https://www.youtube.com/watch?v=EzR2B4jdLxM",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=izDdSmjfZ-k (live: now)",
+    "https://www.youtube.com/watch?v=y2T_2Y9nVDo (live: scheduled 2026-08-03T18:59:09Z)",
+    "https://www.youtube.com/watch?v=_Id0vr__q08 (live: scheduled 2026-08-04T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
