@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-04",
+  "topic": "Skeleton Lake Mystery: What Killed 800 People at Roopkund?",
+  "long_url": "https://www.youtube.com/watch?v=tQFLC2nGFQg",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=YpGd3Ji347g (live: now)",
+    "https://www.youtube.com/watch?v=0DhGz3-5o0s (live: scheduled 2026-08-04T15:59:30Z)",
+    "https://www.youtube.com/watch?v=HN15fzCrHLE (live: scheduled 2026-08-05T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
