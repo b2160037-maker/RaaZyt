@@ -1,4 +1,4 @@
-TOPIC: Skeleton Lake Mystery: What Killed 800 People at Roopkund?
-SLUG: skeleton_lake_mystery_what_killed_800_people_at_roopkund
-DATE: 2026-08-04
-THUMBNAIL FILENAME TO DROP: skeleton_lake_mystery_what_killed_800_people_at_roopkund.png  (1280x720)
+TOPIC: The Dyatlov Pass Incident: What Really Happened to the 9 Hikers?
+SLUG: the_dyatlov_pass_incident_what_really_happened_to_the_9_hikers
+DATE: 2026-08-05
+THUMBNAIL FILENAME TO DROP: the_dyatlov_pass_incident_what_really_happened_to_the_9_hikers.png  (1280x720)
