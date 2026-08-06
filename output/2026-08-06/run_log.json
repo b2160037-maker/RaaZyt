@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-06",
+  "topic": "The Wow! Signal: Did We Receive an Alien Message in 1977?",
+  "long_url": "https://www.youtube.com/watch?v=E90oX_q7nu4",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=QhPp9fuQnjs (live: now)",
+    "https://www.youtube.com/watch?v=eOH8z3z30eI (live: scheduled 2026-08-06T15:51:06Z)",
+    "https://www.youtube.com/watch?v=ShExqohAh4Y (live: scheduled 2026-08-07T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
