@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-07",
+  "topic": "Voynich Manuscript: The Ancient Book That No One Can Read",
+  "long_url": "https://www.youtube.com/watch?v=6Y9T1hW75uQ",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=4PAVPJfiIsI (live: now)",
+    "https://www.youtube.com/watch?v=73gYiaNVCH8 (live: scheduled 2026-08-07T12:17:14Z)",
+    "https://www.youtube.com/watch?v=EoziXTFNREM (live: scheduled 2026-08-08T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
