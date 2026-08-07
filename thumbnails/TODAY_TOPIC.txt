@@ -1,4 +1,4 @@
-TOPIC: The Wow! Signal: Did We Receive an Alien Message in 1977?
-SLUG: the_wow_signal_did_we_receive_an_alien_message_in_1977
-DATE: 2026-08-06
-THUMBNAIL FILENAME TO DROP: the_wow_signal_did_we_receive_an_alien_message_in_1977.png  (1280x720)
+TOPIC: Voynich Manuscript: The Ancient Book That No One Can Read
+SLUG: voynich_manuscript_the_ancient_book_that_no_one_can_read
+DATE: 2026-08-07
+THUMBNAIL FILENAME TO DROP: voynich_manuscript_the_ancient_book_that_no_one_can_read.png  (1280x720)
