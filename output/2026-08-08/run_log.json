@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-08",
+  "topic": "Jatinga Bird Suicide Mystery: Why Birds Crash to Death in Assam",
+  "long_url": "https://www.youtube.com/watch?v=aNxgoK5jcWA",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=5m1IppO7EzI (live: now)",
+    "https://www.youtube.com/watch?v=Tc9WXbNR9eM (live: scheduled 2026-08-08T10:47:43Z)",
+    "https://www.youtube.com/watch?v=FHYxSzeM0TQ (live: scheduled 2026-08-09T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
