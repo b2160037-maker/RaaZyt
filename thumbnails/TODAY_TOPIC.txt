@@ -1,4 +1,4 @@
-TOPIC: Voynich Manuscript: The Ancient Book That No One Can Read
-SLUG: voynich_manuscript_the_ancient_book_that_no_one_can_read
-DATE: 2026-08-07
-THUMBNAIL FILENAME TO DROP: voynich_manuscript_the_ancient_book_that_no_one_can_read.png  (1280x720)
+TOPIC: Jatinga Bird Suicide Mystery: Why Birds Crash to Death in Assam
+SLUG: jatinga_bird_suicide_mystery_why_birds_crash_to_death_in_assam
+DATE: 2026-08-08
+THUMBNAIL FILENAME TO DROP: jatinga_bird_suicide_mystery_why_birds_crash_to_death_in_assam.png  (1280x720)
