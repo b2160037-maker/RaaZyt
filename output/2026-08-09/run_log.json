@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-09",
+  "topic": "The Mystery of Satoshi Nakamoto: Who Really Created Bitcoin?",
+  "long_url": "https://www.youtube.com/watch?v=8NS4IJXNNQw",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=vKhjzwZ4geg (live: now)",
+    "https://www.youtube.com/watch?v=2khJDNC8rYE (live: scheduled 2026-08-09T10:52:17Z)",
+    "https://www.youtube.com/watch?v=NjDsc1PWZ20 (live: scheduled 2026-08-10T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
