@@ -1,4 +1,4 @@
-TOPIC: Jatinga Bird Suicide Mystery: Why Birds Crash to Death in Assam
-SLUG: jatinga_bird_suicide_mystery_why_birds_crash_to_death_in_assam
-DATE: 2026-08-08
-THUMBNAIL FILENAME TO DROP: jatinga_bird_suicide_mystery_why_birds_crash_to_death_in_assam.png  (1280x720)
+TOPIC: The Mystery of Satoshi Nakamoto: Who Really Created Bitcoin?
+SLUG: the_mystery_of_satoshi_nakamoto_who_really_created_bitcoin
+DATE: 2026-08-09
+THUMBNAIL FILENAME TO DROP: the_mystery_of_satoshi_nakamoto_who_really_created_bitcoin.png  (1280x720)
