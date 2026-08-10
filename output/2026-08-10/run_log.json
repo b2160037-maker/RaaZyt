@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-10",
+  "topic": "The Dancing Plague of 1518: When People Danced to Death",
+  "long_url": "https://www.youtube.com/watch?v=KxDUSPRgUHk",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=JeJI74ArOW0 (live: now)",
+    "https://www.youtube.com/watch?v=yTh8u8XHftE (live: scheduled 2026-08-10T13:25:20Z)",
+    "https://www.youtube.com/watch?v=2KVnCYOQwGI (live: scheduled 2026-08-11T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
