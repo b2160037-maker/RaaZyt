@@ -1,4 +1,4 @@
-TOPIC: The Mystery of Satoshi Nakamoto: Who Really Created Bitcoin?
-SLUG: the_mystery_of_satoshi_nakamoto_who_really_created_bitcoin
-DATE: 2026-08-09
-THUMBNAIL FILENAME TO DROP: the_mystery_of_satoshi_nakamoto_who_really_created_bitcoin.png  (1280x720)
+TOPIC: The Dancing Plague of 1518: When People Danced to Death
+SLUG: the_dancing_plague_of_1518_when_people_danced_to_death
+DATE: 2026-08-10
+THUMBNAIL FILENAME TO DROP: the_dancing_plague_of_1518_when_people_danced_to_death.png  (1280x720)
