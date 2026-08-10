@@ -1,24 +1,24 @@
-WEEKLY SEO REPORT (2026-08-03)
+WEEKLY SEO REPORT (2026-08-10)
 ========================================
 New topics added from competitor gaps: 20
-  - Skeleton Lake Mystery: What Killed 800 People at Roopkund?
-  - The Dyatlov Pass Incident: What Really Happened to the 9 Hikers?
-  - The Wow! Signal: Did We Receive an Alien Message in 1977?
-  - Voynich Manuscript: The Ancient Book That No One Can Read
-  - Jatinga Bird Suicide Mystery: Why Birds Crash to Death in Assam
-  - The Mystery of Satoshi Nakamoto: Who Really Created Bitcoin?
-  - The Dancing Plague of 1518: When People Danced to Death
-  - The Boiling River of the Amazon: Water Hot Enough to Cook You Alive
-  - Flannan Isles Lighthouse Mystery: Where Did 3 Keepers Vanish?
-  - CIA Kryptos Statue: The 30-Year-Old Unbroken Code
-  - Sailing Stones of Death Valley: How Rocks Move on Their Own
-  - The Taos Hum: The Unexplained Sound Annoying People Worldwide
-  - Devil's Kettle Waterfall: Where Does the Disappearing Water Go?
-  - The Max Headroom Incident: Unsolved TV Hijack Mystery
-  - Kuldhara Ghost Village: Why 84 Villages Vanished Overnight
-  - Oak Island Money Pit: The 200-Year-Old Treasure Trap
-  - The Green Children of Woolpit: Strange 12th Century Mystery
-  - The Lost Colony of Roanoke: 115 People Disappeared Without a Trace
-  - Eternal Flame Falls: The Fire Burning Behind Water
-  - Tunguska Event: The Mysterious Explosion That Flattened 80 Million Trees
+  - The Taured Man Mystery: The Man from a Country That Never Existed
+  - Max Headroom TV Hijacking: The 1987 Broadcast Intrusion
+  - SS Ourang Medan: The Ghost Ship Whose Crew Died Frozen in Terror
+  - The Lead Masks Case: Mystery of Two Men Found Dead in Brasil
+  - The Wow! Signal: The 72-Second Deep Space Signal Never Heard Again
+  - The Dancing Plague of 1518: Hundreds of People Danced to Death
+  - Oak Island Money Pit: The 200-Year-Old Booby-Trapped Treasure Vault
+  - Who is Satoshi Nakamoto? The Mysterious Creator of Bitcoin
+  - The Tunguska Event: The Blast That Flattened 80 Million Trees Without an Impact Crater
+  - Lake City Quiet Pills: Reddit's Secret Hitman Network Mystery
+  - The Flannan Isles Lighthouse Disappearance: 3 Keepers Vanished Sealed Indoors
+  - The Boötes Void: The Terrifying Giant Empty Patch in the Universe
+  - The Green Children of Woolpit: Mysterious Medieval Siblings
+  - The Dyatlov Pass Incident: 9 Hikers Killed by an Unknown Force
+  - Kaspar Hauser: The Boy Who Appeared Out of Nowhere with a Secret Identity
+  - The Hum: The Low-Frequency Sound Heard Worldwide Driving People Crazy
+  - Kryptos: The Unbroken Code Sitting Outside CIA Headquarters
+  - Purulia Arms Drop Mystery: When Weapons Rained From the Sky in West Bengal
+  - The Great Attractor: The Unseen Force Dragging Our Entire Galaxy
+  - 1994 Oakville Blobs: Mysterious Gelatinous Rain That Made an Entire Town Sick
 Analytics: unavailable (add yt-analytics.readonly scope via get_token.py)
