@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-11",
+  "topic": "The Taured Man Mystery: The Man from a Country That Never Existed",
+  "long_url": "https://www.youtube.com/watch?v=wjWFdPw2hv0",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=DIAUKUP3MH8 (live: now)",
+    "https://www.youtube.com/watch?v=aDANkw0T838 (live: scheduled 2026-08-11T12:24:32Z)",
+    "https://www.youtube.com/watch?v=psy1UN-rfhg (live: scheduled 2026-08-12T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
