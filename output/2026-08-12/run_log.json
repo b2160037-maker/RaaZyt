@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-12",
+  "topic": "Max Headroom TV Hijacking: The 1987 Broadcast Intrusion",
+  "long_url": "https://www.youtube.com/watch?v=2fKPaI8lNAE",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=ah8Jlaed_VQ (live: now)",
+    "https://www.youtube.com/watch?v=FfWjf9Xy4Eo (live: scheduled 2026-08-12T13:22:36Z)",
+    "https://www.youtube.com/watch?v=jEQhjb1k4Y4 (live: scheduled 2026-08-13T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
