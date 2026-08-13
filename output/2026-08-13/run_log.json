@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-13",
+  "topic": "SS Ourang Medan: The Ghost Ship Whose Crew Died Frozen in Terror",
+  "long_url": "https://www.youtube.com/watch?v=A8zDvEl9-ac",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=KRjeHgNqE4U (live: now)",
+    "https://www.youtube.com/watch?v=AW46MGXy7T8 (live: scheduled 2026-08-13T10:47:40Z)",
+    "https://www.youtube.com/watch?v=2mPEOxKhcZM (live: scheduled 2026-08-14T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
