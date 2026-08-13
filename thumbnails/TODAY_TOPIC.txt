@@ -1,4 +1,4 @@
-TOPIC: Max Headroom TV Hijacking: The 1987 Broadcast Intrusion
-SLUG: max_headroom_tv_hijacking_the_1987_broadcast_intrusion
-DATE: 2026-08-12
-THUMBNAIL FILENAME TO DROP: max_headroom_tv_hijacking_the_1987_broadcast_intrusion.png  (1280x720)
+TOPIC: SS Ourang Medan: The Ghost Ship Whose Crew Died Frozen in Terror
+SLUG: ss_ourang_medan_the_ghost_ship_whose_crew_died_frozen_in_terror
+DATE: 2026-08-13
+THUMBNAIL FILENAME TO DROP: ss_ourang_medan_the_ghost_ship_whose_crew_died_frozen_in_terror.png  (1280x720)
