@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-14",
+  "topic": "The Lead Masks Case: Mystery of Two Men Found Dead in Brasil",
+  "long_url": "https://www.youtube.com/watch?v=0f7Du2u_bAI",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=7sLlp01NEDg (live: now)",
+    "https://www.youtube.com/watch?v=0tkfn3AIufM (live: scheduled 2026-08-14T10:41:31Z)",
+    "https://www.youtube.com/watch?v=twqXw007QTs (live: scheduled 2026-08-15T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "groq",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
