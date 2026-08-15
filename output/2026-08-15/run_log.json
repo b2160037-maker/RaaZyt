@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-15",
+  "topic": "The Wow! Signal: The 72-Second Deep Space Signal Never Heard Again",
+  "long_url": "https://www.youtube.com/watch?v=Wao7VkTaUuo",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=_EDLpO5T_uk (live: now)",
+    "https://www.youtube.com/watch?v=gvCHb7Mb7us (live: scheduled 2026-08-15T09:35:51Z)",
+    "https://www.youtube.com/watch?v=NBW4RDfuP9k (live: scheduled 2026-08-16T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "groq",
+    "tts": "edge-tts",
+    "ai_image": "pollinations",
+    "stock": "pexels"
+  }
+}
