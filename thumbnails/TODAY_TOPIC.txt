@@ -1,4 +1,4 @@
-TOPIC: The Wow! Signal: The 72-Second Deep Space Signal Never Heard Again
-SLUG: the_wow_signal_the_72_second_deep_space_signal_never_heard_again
-DATE: 2026-08-15
-THUMBNAIL FILENAME TO DROP: the_wow_signal_the_72_second_deep_space_signal_never_heard_again.png  (1280x720)
+TOPIC: The Dancing Plague of 1518: Hundreds of People Danced to Death
+SLUG: the_dancing_plague_of_1518_hundreds_of_people_danced_to_death
+DATE: 2026-08-16
+THUMBNAIL FILENAME TO DROP: the_dancing_plague_of_1518_hundreds_of_people_danced_to_death.png  (1280x720)
