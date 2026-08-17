@@ -1,0 +1,16 @@
+{
+  "date": "2026-08-17",
+  "topic": "Oak Island Money Pit: The 200-Year-Old Booby-Trapped Treasure Vault",
+  "long_url": "https://www.youtube.com/watch?v=QfLbJvQisFk",
+  "short_urls": [
+    "https://www.youtube.com/watch?v=FYmqmIdMpmM (live: now)",
+    "https://www.youtube.com/watch?v=2S52I26j_D0 (live: scheduled 2026-08-17T10:15:13Z)",
+    "https://www.youtube.com/watch?v=onQ6gtTJoD0 (live: scheduled 2026-08-18T02:30:00Z)"
+  ],
+  "providers": {
+    "llm": "gemini",
+    "tts": "edge-tts",
+    "stock": "pexels",
+    "ai_image": "pollinations"
+  }
+}
