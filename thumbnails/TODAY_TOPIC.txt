@@ -1,4 +1,4 @@
-TOPIC: Oak Island Money Pit: The 200-Year-Old Booby-Trapped Treasure Vault
-SLUG: oak_island_money_pit_the_200_year_old_booby_trapped_treasure_vault
-DATE: 2026-08-17
-THUMBNAIL FILENAME TO DROP: oak_island_money_pit_the_200_year_old_booby_trapped_treasure_vault.png  (1280x720)
+TOPIC: Bhagavad Gita ki rahasyamayi shikshayen
+SLUG: bhagavad_gita_ki_rahasyamayi_shikshayen
+DATE: 2026-08-18
+THUMBNAIL FILENAME TO DROP: bhagavad_gita_ki_rahasyamayi_shikshayen.png  (1280x720)
