@@ -1,4 +1,4 @@
-TOPIC: Bhagavad Gita ki rahasyamayi shikshayen
-SLUG: bhagavad_gita_ki_rahasyamayi_shikshayen
-DATE: 2026-08-18
-THUMBNAIL FILENAME TO DROP: bhagavad_gita_ki_rahasyamayi_shikshayen.png  (1280x720)
+TOPIC: Dwarka nagri ka rahasya
+SLUG: dwarka_nagri_ka_rahasya
+DATE: 2026-08-19
+THUMBNAIL FILENAME TO DROP: dwarka_nagri_ka_rahasya.png  (1280x720)
