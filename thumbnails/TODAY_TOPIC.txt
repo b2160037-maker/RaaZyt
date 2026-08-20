@@ -1,4 +1,4 @@
-TOPIC: Dwarka nagri ka rahasya
-SLUG: dwarka_nagri_ka_rahasya
-DATE: 2026-08-19
-THUMBNAIL FILENAME TO DROP: dwarka_nagri_ka_rahasya.png  (1280x720)
+TOPIC: Mahabharat ke samay ki ghatnayen
+SLUG: mahabharat_ke_samay_ki_ghatnayen
+DATE: 2026-08-20
+THUMBNAIL FILENAME TO DROP: mahabharat_ke_samay_ki_ghatnayen.png  (1280x720)
