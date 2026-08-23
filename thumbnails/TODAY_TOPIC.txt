@@ -1,4 +1,4 @@
-TOPIC: Taj Mahal ka rahasya
-SLUG: taj_mahal_ka_rahasya
-DATE: 2026-08-22
-THUMBNAIL FILENAME TO DROP: taj_mahal_ka_rahasya.png  (1280x720)
+TOPIC: Bharatiya sanskruti ke rahasya
+SLUG: bharatiya_sanskruti_ke_rahasya
+DATE: 2026-08-23
+THUMBNAIL FILENAME TO DROP: bharatiya_sanskruti_ke_rahasya.png  (1280x720)
