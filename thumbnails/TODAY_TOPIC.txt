@@ -1,4 +1,4 @@
-TOPIC: Bharatiya sanskruti ke rahasya
-SLUG: bharatiya_sanskruti_ke_rahasya
-DATE: 2026-08-23
-THUMBNAIL FILENAME TO DROP: bharatiya_sanskruti_ke_rahasya.png  (1280x720)
+TOPIC: Hindu dharm ke rahasya
+SLUG: hindu_dharm_ke_rahasya
+DATE: 2026-08-24
+THUMBNAIL FILENAME TO DROP: hindu_dharm_ke_rahasya.png  (1280x720)
