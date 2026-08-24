@@ -1,108 +1,108 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-24",
   "topics": [
     {
-      "topic": "Bhagavad Gita ki rahasyamayi shikshayen",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Dwarka nagri ka rahasya",
+      "topic": "Yuba County Five: The American Dyatlov Pass Mystery",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Mahabharat ke samay ki ghatnayen",
-      "type": "true_story"
-    },
-    {
-      "topic": "Ramayan ke rahasya",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Taj Mahal ka rahasya",
+      "topic": "Voynich Manuscript: The 600-Year-Old Undecipherable Book",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Bharatiya sanskruti ke rahasya",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Hindu dharm ke rahasya",
+      "topic": "The Antwerp Diamond Heist: How Thieves Robbed the World's Most Secure Vault",
       "type": "true_story"
     },
     {
-      "topic": "Vedon ke rahasya",
-      "type": "mind_blowing_fact"
+      "topic": "Gloria Ramirez: The Toxic Lady Who Contaminated an Entire Hospital",
+      "type": "true_story"
     },
     {
-      "topic": "Puranon ke rahasya",
+      "topic": "Dancing Plague of 1518: The Mysterious Event Where Hundreds Danced to Death",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Upanishadon ke rahasya",
+      "topic": "Juliane Koepcke: The Girl Who Survived a 10,000-Foot Plane Fall into the Amazon",
       "type": "true_story"
     },
     {
-      "topic": "Bhagavad Gita ki shikshayen aur vyavharik jivan",
+      "topic": "The Wow! Signal: The 72-Second Radio Signal from Deep Space",
       "type": "mind_blowing_fact"
     },
     {
-      "topic": "Mahabharat ke mahabharatiyon ke jivan ki kahaniyan",
-      "type": "true_story"
+      "topic": "Point Nemo: The Loneliest Place on Earth Where Spacecraft Go to Die",
+      "type": "mind_blowing_fact"
     },
     {
-      "topic": "Ramayan ke patron ke jivan ki kahaniyan",
-      "type": "true_story"
-    },
-    {
-      "topic": "Bharatiya itihas ke rahasya",
+      "topic": "Hinterkaifeck Murders: Footprints in the Snow Leading to Attic",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Purane Bharat ke rahasya",
-      "type": "mind_blowing_fact"
-    },
-    {
-      "topic": "Bharatiya sanskruti ke prachin rahasya",
+      "topic": "Lake Nyos Disaster: The Silent Gas Cloud That Wiped Out Entire Villages Overnight",
       "type": "true_story"
     },
     {
-      "topic": "Tibet ke rahasya",
+      "topic": "The Mystery of the Man from Taured: Passenger from a Non-Existent Country",
       "type": "unsolved_mystery"
     },
     {
-      "topic": "Ladakh ke rahasya",
+      "topic": "Kola Superdeep Borehole: What Scientists Really Found 12km Below Earth",
       "type": "mind_blowing_fact"
     },
     {
-      "topic": "Kailash parvat ke rahasya",
+      "topic": "The Isdal Woman: Cold War Secret Agent Murder Mystery in Norway",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Silent Twins: June and Jennifer Gibbons Secret Life and Sacrifice",
       "type": "true_story"
     },
     {
-      "topic": "Bharatiya darshan ke rahasya",
+      "topic": "Mary Celeste: The Ghost Ship Found Sailing with No Crew but Full Cargo",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "The Tamam Shud Case: The Unsolved Somerton Man Cipher Code",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Lake Anjikuni: The Inuk Village That Completely Vanished Overnight",
+      "type": "unsolved_mystery"
+    },
+    {
+      "topic": "Mapimí Silent Zone: The Place in Mexico Where Radio Signals and Compasses Fail",
       "type": "mind_blowing_fact"
+    },
+    {
+      "topic": "Tsutomu Yamaguchi: The Man Who Survived Both Hiroshima and Nagasaki",
+      "type": "true_story"
+    },
+    {
+      "topic": "The Green Children of Woolpit: 12th-Century Enigma",
+      "type": "unsolved_mystery"
     }
   ],
   "added": [
-    "Bhagavad Gita ki rahasyamayi shikshayen",
-    "Dwarka nagri ka rahasya",
-    "Mahabharat ke samay ki ghatnayen",
-    "Ramayan ke rahasya",
-    "Taj Mahal ka rahasya",
-    "Bharatiya sanskruti ke rahasya",
-    "Hindu dharm ke rahasya",
-    "Vedon ke rahasya",
-    "Puranon ke rahasya",
-    "Upanishadon ke rahasya",
-    "Bhagavad Gita ki shikshayen aur vyavharik jivan",
-    "Mahabharat ke mahabharatiyon ke jivan ki kahaniyan",
-    "Ramayan ke patron ke jivan ki kahaniyan",
-    "Bharatiya itihas ke rahasya",
-    "Purane Bharat ke rahasya",
-    "Bharatiya sanskruti ke prachin rahasya",
-    "Tibet ke rahasya",
-    "Ladakh ke rahasya",
-    "Kailash parvat ke rahasya",
-    "Bharatiya darshan ke rahasya"
+    "Yuba County Five: The American Dyatlov Pass Mystery",
+    "Voynich Manuscript: The 600-Year-Old Undecipherable Book",
+    "The Antwerp Diamond Heist: How Thieves Robbed the World's Most Secure Vault",
+    "Gloria Ramirez: The Toxic Lady Who Contaminated an Entire Hospital",
+    "Dancing Plague of 1518: The Mysterious Event Where Hundreds Danced to Death",
+    "Juliane Koepcke: The Girl Who Survived a 10,000-Foot Plane Fall into the Amazon",
+    "The Wow! Signal: The 72-Second Radio Signal from Deep Space",
+    "Point Nemo: The Loneliest Place on Earth Where Spacecraft Go to Die",
+    "Hinterkaifeck Murders: Footprints in the Snow Leading to Attic",
+    "Lake Nyos Disaster: The Silent Gas Cloud That Wiped Out Entire Villages Overnight",
+    "The Mystery of the Man from Taured: Passenger from a Non-Existent Country",
+    "Kola Superdeep Borehole: What Scientists Really Found 12km Below Earth",
+    "The Isdal Woman: Cold War Secret Agent Murder Mystery in Norway",
+    "The Silent Twins: June and Jennifer Gibbons Secret Life and Sacrifice",
+    "Mary Celeste: The Ghost Ship Found Sailing with No Crew but Full Cargo",
+    "The Tamam Shud Case: The Unsolved Somerton Man Cipher Code",
+    "Lake Anjikuni: The Inuk Village That Completely Vanished Overnight",
+    "Mapimí Silent Zone: The Place in Mexico Where Radio Signals and Compasses Fail",
+    "Tsutomu Yamaguchi: The Man Who Survived Both Hiroshima and Nagasaki",
+    "The Green Children of Woolpit: 12th-Century Enigma"
   ],
   "refreshed": []
 }
