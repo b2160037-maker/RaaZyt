@@ -1,4 +1,4 @@
-TOPIC: Hindu dharm ke rahasya
-SLUG: hindu_dharm_ke_rahasya
-DATE: 2026-08-24
-THUMBNAIL FILENAME TO DROP: hindu_dharm_ke_rahasya.png  (1280x720)
+TOPIC: Yuba County Five: The American Dyatlov Pass Mystery
+SLUG: yuba_county_five_the_american_dyatlov_pass_mystery
+DATE: 2026-08-25
+THUMBNAIL FILENAME TO DROP: yuba_county_five_the_american_dyatlov_pass_mystery.png  (1280x720)
