@@ -1,4 +1,4 @@
-TOPIC: Yuba County Five: The American Dyatlov Pass Mystery
-SLUG: yuba_county_five_the_american_dyatlov_pass_mystery
-DATE: 2026-08-25
-THUMBNAIL FILENAME TO DROP: yuba_county_five_the_american_dyatlov_pass_mystery.png  (1280x720)
+TOPIC: Voynich Manuscript: The 600-Year-Old Undecipherable Book
+SLUG: voynich_manuscript_the_600_year_old_undecipherable_book
+DATE: 2026-08-26
+THUMBNAIL FILENAME TO DROP: voynich_manuscript_the_600_year_old_undecipherable_book.png  (1280x720)
