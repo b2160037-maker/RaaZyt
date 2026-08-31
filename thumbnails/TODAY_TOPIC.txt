@@ -1,4 +1,4 @@
-TOPIC: Juliane Koepcke: The Girl Who Survived a 10,000-Foot Plane Fall into the Amazon
-SLUG: juliane_koepcke_the_girl_who_survived_a_10000_foot_plane_fall_into_the_amazon
-DATE: 2026-08-30
-THUMBNAIL FILENAME TO DROP: juliane_koepcke_the_girl_who_survived_a_10000_foot_plane_fall_into_the_amazon.png  (1280x720)
+TOPIC: The Wow! Signal: The 72-Second Radio Signal from Deep Space
+SLUG: the_wow_signal_the_72_second_radio_signal_from_deep_space
+DATE: 2026-08-31
+THUMBNAIL FILENAME TO DROP: the_wow_signal_the_72_second_radio_signal_from_deep_space.png  (1280x720)
