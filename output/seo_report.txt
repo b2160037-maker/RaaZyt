@@ -1,24 +1,4 @@
-WEEKLY SEO REPORT (2026-08-24)
+WEEKLY SEO REPORT (2026-08-31)
 ========================================
-New topics added from competitor gaps: 20
-  - Yuba County Five: The American Dyatlov Pass Mystery
-  - Voynich Manuscript: The 600-Year-Old Undecipherable Book
-  - The Antwerp Diamond Heist: How Thieves Robbed the World's Most Secure Vault
-  - Gloria Ramirez: The Toxic Lady Who Contaminated an Entire Hospital
-  - Dancing Plague of 1518: The Mysterious Event Where Hundreds Danced to Death
-  - Juliane Koepcke: The Girl Who Survived a 10,000-Foot Plane Fall into the Amazon
-  - The Wow! Signal: The 72-Second Radio Signal from Deep Space
-  - Point Nemo: The Loneliest Place on Earth Where Spacecraft Go to Die
-  - Hinterkaifeck Murders: Footprints in the Snow Leading to Attic
-  - Lake Nyos Disaster: The Silent Gas Cloud That Wiped Out Entire Villages Overnight
-  - The Mystery of the Man from Taured: Passenger from a Non-Existent Country
-  - Kola Superdeep Borehole: What Scientists Really Found 12km Below Earth
-  - The Isdal Woman: Cold War Secret Agent Murder Mystery in Norway
-  - The Silent Twins: June and Jennifer Gibbons Secret Life and Sacrifice
-  - Mary Celeste: The Ghost Ship Found Sailing with No Crew but Full Cargo
-  - The Tamam Shud Case: The Unsolved Somerton Man Cipher Code
-  - Lake Anjikuni: The Inuk Village That Completely Vanished Overnight
-  - Mapimí Silent Zone: The Place in Mexico Where Radio Signals and Compasses Fail
-  - Tsutomu Yamaguchi: The Man Who Survived Both Hiroshima and Nagasaki
-  - The Green Children of Woolpit: 12th-Century Enigma
+New topics added from competitor gaps: 0
 Analytics: unavailable (add yt-analytics.readonly scope via get_token.py)
