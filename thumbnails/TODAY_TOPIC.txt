@@ -1,4 +1,4 @@
-TOPIC: The Wow! Signal: The 72-Second Radio Signal from Deep Space
-SLUG: the_wow_signal_the_72_second_radio_signal_from_deep_space
-DATE: 2026-08-31
-THUMBNAIL FILENAME TO DROP: the_wow_signal_the_72_second_radio_signal_from_deep_space.png  (1280x720)
+TOPIC: Point Nemo: The Loneliest Place on Earth Where Spacecraft Go to Die
+SLUG: point_nemo_the_loneliest_place_on_earth_where_spacecraft_go_to_die
+DATE: 2026-09-01
+THUMBNAIL FILENAME TO DROP: point_nemo_the_loneliest_place_on_earth_where_spacecraft_go_to_die.png  (1280x720)
