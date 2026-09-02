@@ -1,4 +1,4 @@
-TOPIC: Point Nemo: The Loneliest Place on Earth Where Spacecraft Go to Die
-SLUG: point_nemo_the_loneliest_place_on_earth_where_spacecraft_go_to_die
-DATE: 2026-09-01
-THUMBNAIL FILENAME TO DROP: point_nemo_the_loneliest_place_on_earth_where_spacecraft_go_to_die.png  (1280x720)
+TOPIC: Hinterkaifeck Murders: Footprints in the Snow Leading to Attic
+SLUG: hinterkaifeck_murders_footprints_in_the_snow_leading_to_attic
+DATE: 2026-09-02
+THUMBNAIL FILENAME TO DROP: hinterkaifeck_murders_footprints_in_the_snow_leading_to_attic.png  (1280x720)
