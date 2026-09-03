@@ -1,4 +1,4 @@
-TOPIC: Hinterkaifeck Murders: Footprints in the Snow Leading to Attic
-SLUG: hinterkaifeck_murders_footprints_in_the_snow_leading_to_attic
-DATE: 2026-09-02
-THUMBNAIL FILENAME TO DROP: hinterkaifeck_murders_footprints_in_the_snow_leading_to_attic.png  (1280x720)
+TOPIC: Lake Nyos Disaster: The Silent Gas Cloud That Wiped Out Entire Villages Overnight
+SLUG: lake_nyos_disaster_the_silent_gas_cloud_that_wiped_out_entire_villages_overnight
+DATE: 2026-09-03
+THUMBNAIL FILENAME TO DROP: lake_nyos_disaster_the_silent_gas_cloud_that_wiped_out_entire_villages_overnight.png  (1280x720)
