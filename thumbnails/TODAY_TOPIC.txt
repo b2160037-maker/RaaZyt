@@ -1,4 +1,4 @@
-TOPIC: The Mystery of the Man from Taured: Passenger from a Non-Existent Country
-SLUG: the_mystery_of_the_man_from_taured_passenger_from_a_non_existent_country
-DATE: 2026-09-04
-THUMBNAIL FILENAME TO DROP: the_mystery_of_the_man_from_taured_passenger_from_a_non_existent_country.png  (1280x720)
+TOPIC: Kola Superdeep Borehole: What Scientists Really Found 12km Below Earth
+SLUG: kola_superdeep_borehole_what_scientists_really_found_12km_below_earth
+DATE: 2026-09-05
+THUMBNAIL FILENAME TO DROP: kola_superdeep_borehole_what_scientists_really_found_12km_below_earth.png  (1280x720)
